@@ -1,2 +1,4 @@
-# ranews
-RANews preview
+# RANews
+The RetroAchievements webzine
+
+https://news.retroachievements.org/
